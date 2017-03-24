@@ -1,4 +1,5 @@
-# AramiCoin ![AramiCoin](https://github.com/aramicoin/aramicoin/blob/master/images/arami.png?raw=true)
+# AramiCoin 
+![AramiCoin](https://github.com/aramicoin/aramicoin/blob/master/images/arami.png?raw=true)
 
 ## About
 AramiCoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network
