@@ -1,4 +1,5 @@
-# AramiCoin
+![AramiCoin](https://github.com/aramicoin/aramicoin/blob/master/images/arami-16.png?raw=true) 
+#AramiCoin
 
 ## About
 AramiCoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network
@@ -12,7 +13,7 @@ AramiCoin uses peer-to-peer technology to operate with no central authority or b
 * On October 10, 2016 ，was added to a newly launched cryptocurrency exchange named Ecisec.com allowing trading between Bitcoin and LiteCoin.
 
 ## Wallet
-![mahua](https://github.com/aramicoin/aramicoin/blob/master/wallet.png?raw=true) 
+![wallet](https://github.com/aramicoin/aramicoin/blob/master/wallet.png?raw=true) 
 
 ## License
 
